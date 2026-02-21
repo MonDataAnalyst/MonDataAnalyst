@@ -62,5 +62,5 @@
 
 ## 📬 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/yourname)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/mondataanalyst)  
 [![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:raymondpalang0@gmail.com)
