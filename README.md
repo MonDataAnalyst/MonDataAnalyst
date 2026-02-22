@@ -26,7 +26,7 @@
 ---
 
 ## 📁 Featured Projects
-
+<!--
 ### 🛒 E-Commerce Sales Analysis
 **Tools:** SQL + Excel + Power BI  
 - Cleaned and transformed raw transactional data  
@@ -44,21 +44,14 @@
 - Analyzed employee turnover metrics  
 - Created queries for attrition rate and department comparison  
 - Provided data-driven retention insights  
-
-### 📊 Sales Dashboard
+-->
+### 📊  [Sales Dashboard](https://github.com/MonDataAnalyt/sales-dashboard-excel)
 **Tools:** Excel  
 - Cleaned messy sales dataset  
 - Created Pivot Tables and KPI summary  
 - Built interactive dashboard with slicers and charts  
 
----
 
-## 📈 What I'm Currently Working On
-- Improving advanced SQL query optimization  
-- Building portfolio-ready Power BI dashboards  
-- Strengthening statistical analysis fundamentals  
-
----
 
 ## 📬 Connect With Me
 
