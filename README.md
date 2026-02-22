@@ -45,7 +45,7 @@
 - Created queries for attrition rate and department comparison  
 - Provided data-driven retention insights  
 -->
-### 📊  [Superstore Sales Performance Dashboard](https://github.com/MonDataAnalyst/sales-dashboard-excel)
+### 📊  [Superstore Sales Performance Dashboard](https://github.com/monrealm/sales-dashboard-excel)
 **Tools:** Excel  
 - Cleaned messy sales dataset  
 - Created Pivot Tables and KPI summary  
@@ -55,5 +55,5 @@
 
 ## 📬 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/mondataanalyst)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/monrealm)  
 [![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:raymondpalang0@gmail.com)
